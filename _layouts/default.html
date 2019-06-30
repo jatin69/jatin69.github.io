@@ -1,28 +1,29 @@
----
+<!-- ---
 layout: compress
---- 
+uncomment if you wanna compress the source code
+--- -->
 
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <div class="container">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+  <div class="container">
+    <div class="wrapper">
+      {{ content }}
     </div>
+  </div>
 
-    {% include footer.html %}
-    
+  {% include footer.html %}
+
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
- {% if site.analytics %}{% include analytics.html %}{% endif %}
-  </body>
+  {% if site.analytics %}{% include analytics.html %}{% endif %}
+</body>
 
 </html>

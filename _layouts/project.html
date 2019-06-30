@@ -20,12 +20,6 @@ layout: default
       </div>
 
     </article>
-    <div class="row">
-      {% if site.disqus-shortname %}
-      {% include disqus.html %}
-      {% endif %}
-    </div>
-
 
     <div class="row">
       <ul class="pager">
@@ -40,8 +34,15 @@ layout: default
     </div>
   </div>
   <div class="col-md-2"></div>
+  <div class="row">
+      {% if site.disqus-shortname %}
+      {% if page.comments %}
+      {% include disqus.html %}
+      {% endif %}
+      {% endif %}
+    </div>
 
 </div>
 
 
-{% include fb-script.html %}
+<!-- {% include fb-script.html %} -->

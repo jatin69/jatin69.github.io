@@ -1,8 +1,11 @@
 ---
 layout: project
-title:  "Demo project A"
-BannerDescription: "Hello hey i am Demo.  Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo Hello hey i am Demo."
+title:  "Demo project 1"
+bannerDescription: "Hello hey i am Demo 1 with Banner Image. I have custom Description. I am not dated. so i am on top"
+techUsed:  Python, Requests, beautifulSoup
+<!-- bannerImage: ./banner.png -->
 comments: true
+githubRepo: "jatin69/ftp"
 ---
 
 Very long post

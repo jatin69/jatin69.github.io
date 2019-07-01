@@ -90,11 +90,12 @@ footer {
 }
 
 .social {
+    text-decoration: none;
     list-style: none;
     display: inline;
     margin-left: 0px;
     padding: 5px 8px;
-    font-size: 1.2em;
+    font-size: 1.5em;
     }
 .social:hover {
     opacity: 0.6;
@@ -139,12 +140,11 @@ footer {
 
 .card {
     float: none;
-
 }
 
 .post-title {
     line-height: 2;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .index-anchor {

@@ -1,14 +1,13 @@
 ---
 layout: project
-title:  "Demo project 2"
-bannerDescription: "Hello hey i am Demo 1 with Banner Image. I have custom Description. i am OLDEST"
-techUsed:  Python, Requests, beautifulSoup
-<!-- bannerImage: ./../demo-1/banner.png -->
-comments: true
-date: 2017-11-11
+title:  "Demo project 4"
+bannerDescription: "Hello hey i am Demo 4.  I no banner image and comments disabled."
+techUsed: C++, Unix Sockets
+comments: false
+date: 2018-11-11
 ---
 
-Very long post
+Very long post. I am dated oldest
 
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
 
@@ -22,14 +21,7 @@ Below elements can be used just by adding certain classes to regular html elemen
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based 
 on Bootstrap, you can use any bootstrap class in this theme.
 
-# Graet
-
-Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
-Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
-Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
-Below elements can be used just by adding certain classes to regular html elements. Since the theme is based 
-on Bootstrap, you can use any bootstrap class in this theme.
-
+# Great
 
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
@@ -49,6 +41,11 @@ Below elements can be used just by adding certain classes to regular html elemen
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based 
 
 on Bootstrap, you can use any bootstrap class in this theme.
+Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
+Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
+Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
+Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
+s in this theme.
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.

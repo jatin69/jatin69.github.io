@@ -19,9 +19,9 @@ default-image: default-project-banner.png # If there is no featured image in a p
 # i am not using sidebar
 
 #footer
-copyright:
-  name:  Jatin Rohilla
-  link: 'http://github.com/jatin69'
+# copyright:
+#   name:  Jatin Rohilla
+#   link: 'http://github.com/jatin69'
 
 # Build settings
 markdown: kramdown
@@ -33,7 +33,7 @@ permalink: /:title/
 
 # Tracker
 # this is my id, use yours if you fork it
-analytics: UA-142349334-2
+# analytics: UA-142349334-2
 
 # Comments
 # go to disqus site and create a admin dashboard for your site

@@ -41,9 +41,10 @@ img {
     padding: 20px 0;
 }
 .navbar-brand {
-    font-weight: 900;
+    text-decoration-color: black;
+    font-weight: 500;
     font-size: 1.85em;
-    padding: 10px;
+    padding: 15px;
     margin-left: 15px !important;
     @media screen and (max-width: $on-palm) {
         font-size: 1.5em;
@@ -90,9 +91,9 @@ footer {
 .social {
     list-style: none;
     display: inline;
-    margin-left: 10px;
+    margin-left: 0px;
     padding: 5px 8px;
-    font-size: 1.40em;
+    font-size: 1.2em;
     }
 .social:hover {
     opacity: 0.6;

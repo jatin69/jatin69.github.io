@@ -31,6 +31,8 @@ These are opinionated as per my requirements.
 - Some ununsed files are still kept, incase they come in handy in future
 - The current css is around `125KB` which is very huge. We could use purgecss, but github pages deployment won't do it for us. We could deploy to `netifly` or `now` but that defeats the purpose. The purpose is to keep it all simple and on github pages for now, because ultimately gatsby site is a better choice. Jekyll is quick to prototype and therefore it is used. 
 - Thus, to save space, bootstrap readable has been commented out.
+- This means, any override to bootstrap must be in `custom.css`
+- `disqus comments` are supported. But because comments are rare, i put a manual button to load disqus comments if needed.
 
 ## Common Operations
 

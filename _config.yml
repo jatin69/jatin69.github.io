@@ -10,6 +10,7 @@ title: Jatin Rohilla
 email: jatin.mca17.du@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio site of Jatin Rohilla
+profilePicture: jatin-rohilla.jpg
     
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jatin69.github.io" # the base hostname & protocol for your site
@@ -33,7 +34,7 @@ permalink: /:title/
 
 # Tracker
 # this is my id, use yours if you fork it
-# analytics: UA-142349334-2
+analytics: false
 
 # Comments
 # go to disqus site and create a admin dashboard for your site

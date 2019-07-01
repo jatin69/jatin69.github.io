@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Projects
 ---
 
 <div class="home">
@@ -11,15 +12,16 @@ layout: default
       <a href="{{ project.url | prepend: site.baseurl }}/" class="index-anchor">
         <div class="panel panel-default">
 
-          {% if project.bannerImage %}
+          <!-- images not needed -->
+          <!-- {% if project.bannerImage %}
           <img width="100%" src="{{site.baseurl}}{{project.url}}/{{project.bannerImage}}"
             alt="{{project.title}}">
           {% else %}
           <img width="100%" src="{{site.baseurl}}/projects/default-project-banner.png" alt="{{site.title}}">
-          {% endif %}
+          {% endif %} -->
 
           <div class="panel-body">
-            <h3 class="panel-title pull-left">{{ project.title | truncate: 50 }}</h3>
+            <h1 class="panel-title pull-left" style="font-family: Raleway" >{{ project.title | truncate: 100 }}</h1>
           </div>
 
           {% if project.BannerDescription %}

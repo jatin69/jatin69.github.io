@@ -45,7 +45,7 @@ permalink: /
         </p>
         <p>I'm currently looking for a job! Here's my <a href="/resume">Resume</a>.</p>
         <p>If you're interested in knowing my technical experience, checkout my
-            <a href="/skills">Skills</a>.
+            <a href="/projects">Projects</a>.
         </p>
     </div>
 </div>

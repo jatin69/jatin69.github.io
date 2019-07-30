@@ -36,17 +36,20 @@ permalink: /
         </a>
         {% endif %}
     </header>
-    <div style="margin: 2em 0em 2em 0em">
-        <p style="text-align: left; ">
+    <div style="margin: 2em 0em 2em 0em; text-align: left;">
+        <p>
             Hello World !
             I'm currently pursuing Masters in Computer Applications at University of Delhi. I'm passionate
-            about web and software development. I occasionally blog at <a
+            about web and software development. I have recently started writing at <a
                 href="https://jatin69.github.io/jjwrites/">jjwrites</a>.
         </p>
         <p>I'm currently looking for a job! Here's my <a href="/resume">Resume</a>.</p>
         <p>If you're interested in knowing my technical experience, checkout my
-            <a href="/projects">Projects</a>.
+            <a href="/projects">Projects</a>. 
         </p>
+        <!-- <p>
+            Checkout my <a href="https://github.com/jatin69">github profile</a> to see more of my work.
+        </p> -->
     </div>
 </div>
 <div class="col-md-2"></div>

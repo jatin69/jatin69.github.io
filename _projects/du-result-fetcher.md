@@ -5,6 +5,7 @@ bannerDescription: "Python script to bulk fetch marks statements for Delhi Unive
 techUsed: Python, requests, BeautifulSoup, Node.js, cheerio
 githubRepo: jatin69/du-result-fetcher
 comments: true
+priority: 1
 date: 2019-06-20
 ---
 

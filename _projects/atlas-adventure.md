@@ -3,9 +3,10 @@ layout: project
 title:  "Atlas Adventure"
 bannerDescription: "Amazon Alexa Skill to play the geography variant 
 of the classic word building game - word chain."
-techUsed: Node.js, AWS CLI, AWS Lambda, AWS CloudWatch, Google Places API
+techUsed: Alexa Node.js SDK, AWS Lambda, CloudWatch, Google Places API
 githubRepo: jatin69/atlas-adventure
 comments: true
+priority: 3
 date: 2018-02-28
 ---
 

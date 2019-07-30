@@ -5,6 +5,7 @@ bannerDescription: "A client-server Implementation of the File Transfer Protocol
 techUsed: C++, GNU Make, TCP/IP sockets, Google Compute Engine
 githubRepo: jatin69/ftp
 comments: true
+priority: 2
 date: 2019-04-10
 ---
 

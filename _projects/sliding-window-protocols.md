@@ -5,6 +5,7 @@ bannerDescription: "Event Logging based Visualization of Sliding Window Protocol
 techUsed: Python, Flask-SocketIO, JavaScript, SocketIO, heroku
 githubRepo: jatin69/sliding-window-protocols
 comments: true
+priority: 3.5
 date: 2018-05-02
 ---
 

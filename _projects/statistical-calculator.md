@@ -1,10 +1,11 @@
 ---
 layout: project
-title:  "Statistical Calculator"
-bannerDescription: "A Shiny Web App with over 50 statistical functions implemented from scratch in R."
+title:  "Skull : A Statistical Calculator"
+bannerDescription: "A Shiny Web App with over 50 statistical functions implemented from scratch in R. Deployed online on shiny apps (active R server in backend)."
 techUsed: R, RStudio, Shiny Web App
 githubRepo: jatin69/statistical_calculator
 comments: true
+priority: 4
 date: 2017-11-17
 ---
 

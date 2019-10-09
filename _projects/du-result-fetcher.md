@@ -1,12 +1,12 @@
 ---
 layout: project
 title:  "DU Result Fetcher"
-bannerDescription: "Python script to bulk fetch marks statements for Delhi University."
-techUsed: Python, requests, BeautifulSoup, Node.js, cheerio
+bannerDescription: "Python script to bulk fetch marks statements for Delhi University Students. Bypasses the captcha on the official result website." 
+techUsed: Python, requests, BeautifulSoup
 githubRepo: jatin69/du-result-fetcher
 comments: true
 priority: 1
-date: 2019-06-20
+date: 2018-01-18
 ---
 
 

@@ -1,12 +1,12 @@
 ---
 layout: project
 title:  "Codechef Contest Calendar"
-bannerDescription: "Custom Google Calendar for upcoming codechef contests."
-techUsed: Python, BeautifulSoup, Google Calendar API
+bannerDescription: "Custom Google Calendar for upcoming codechef contests. Contests are scraped from the codechef website. The scraping task is run as a cron job."
+techUsed: Python, Google Calendar API
 githubRepo: jatin69/codechef-contest-calendar
 comments: true
-priority: 3.7
-date: 2018-11-17
+priority: 7
+date: 2018-10-20
 ---
 
 ## Codechef Contest Calendar

@@ -40,10 +40,10 @@ permalink: /
         <p>
             Hello World !
             I'm currently pursuing Masters in Computer Applications at University of Delhi. I'm passionate
-            about web and software development. I have recently started writing at <a
-                href="https://jatin69.github.io/jjwrites/">jjwrites</a>.
+            about web and software development. I occasionaly blog at <a
+                href="https://jatin69.github.io/jjwritestech/">jj-writes-tech</a>.
         </p>
-        <p>I'm currently looking for a job! Here's my <a href="/resume">Resume</a>.</p>
+        <p>I'm open to job offers! Here's my <a href="/resume">Resume</a>.</p>
         <p>If you're interested in knowing my technical experience, checkout my
             <a href="/projects">Projects</a>. 
         </p>

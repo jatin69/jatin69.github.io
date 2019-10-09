@@ -1,12 +1,12 @@
 ---
 layout: project
 title:  "Vitamin Guide"
-bannerDescription: "Amazon Alexa multimodal skill made with Alexa Presentation Language"
+bannerDescription: "Amazon Alexa multimodal skill made with Alexa Presentation Language (APL). Multimodal means the skill display can now adapt to all screen sizes available in alexa devices."
 techUsed: Node.js, Alexa Presentation Language
 githubRepo: jatin69/vitamin-guide-amazon-alexa-skill
 comments: true
 date: 2019-01-21
-priority: 8.2
+priority: 8
 ---
 
 

@@ -6,8 +6,8 @@ of the classic word building game - word chain."
 techUsed: Alexa Node.js SDK, AWS Lambda, CloudWatch, Google Places API
 githubRepo: jatin69/atlas-adventure
 comments: true
-priority: 3
-date: 2018-02-28
+priority: 5
+date: 2018-02-13
 ---
 
 # Atlas-adventure

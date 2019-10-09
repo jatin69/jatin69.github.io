@@ -6,7 +6,7 @@ techUsed: vanilla PHP, Bootstrap, MySQL
 githubRepo: jatin69/ducsbank
 comments: true
 date: 2018-02-05
-priority: 8
+priority: 10
 ---
 
 

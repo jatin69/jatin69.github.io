@@ -2,11 +2,11 @@
 layout: project
 title:  "Sliding Window Protocols"
 bannerDescription: "Event Logging based Visualization of Sliding Window Protocols."
-techUsed: Python, Flask-SocketIO, JavaScript, SocketIO, heroku
+techUsed: Python, Flask-SocketIO, heroku
 githubRepo: jatin69/sliding-window-protocols
 comments: true
-priority: 3.5
-date: 2018-05-02
+priority: 3
+date: 2018-04-26
 ---
 
 Standard Sliding Window Protocols Protocols using [flask socketIO](https://github.com/miguelgrinberg/Flask-SocketIO)

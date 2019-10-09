@@ -1,12 +1,12 @@
 ---
 layout: project
 title:  "Buffer Cache Simulation"
-bannerDescription: "A Simple Buffer Cache implementation to simulate getblk and brelse algorithms."
-techUsed: C, makefile
+bannerDescription: "A Simple Buffer Cache implementation to simulate getblk and brelse algorithms. A menu based step simulation has been implemented to provide fine grained control over the various cases of getblk algorithm."
+techUsed: C, makefile, shell script
 githubRepo: jatin69/buffer-cache-simulation
 comments: true
-priority: 8.5
-date: 2018-04-09
+priority: 9
+date: 2019-04-09
 ---
 
 # Buffer Cache Simulation

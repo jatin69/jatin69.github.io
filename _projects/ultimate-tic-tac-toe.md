@@ -1,12 +1,12 @@
 ---
 layout: project
 title:  "Ultimate Tic Tac Toe"
-bannerDescription: "(Work in Progress) Extension of the standard 3x3 tic tac toe to a 9x9 version with new rules."
+bannerDescription: "Extension of the standard 3x3 tic tac toe. A 3x3x3 version with new rules. Play against the computer or a friend. Distributed as as self contained exe"
 techUsed: Python, Pygame, PyInstaller
 githubRepo: jatin69/ultimate-tic-tac-toe
 comments: true
-priority: 7
-date: 2017-11-01
+priority: 4
+date: 2018-01-14
 ---
 
 Project started in Nov, 2017. Needs some finishing touches before release.

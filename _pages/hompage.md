@@ -41,12 +41,11 @@ permalink: /
             Hello World!
             I'm currently a final semester MCA student at Department of Computer Science, University of Delhi. 
             I'm also an upcoming SDE Intern and FTE at Amazon India. 
-            I'm passionate about web and software development. 
-            I occasionaly blog at <a href="https://jjwritestech.now.sh">jj-writes-tech</a>.
         </p>
-        <p>Here's my <a href="/resume">Resume</a>.</p>
-        <p>If you're interested in knowing about my technical experience, checkout my <a href="/projects">Projects</a>. 
+        <p>
+            I'm passionate about web and software development. If you're interested in knowing about my technical experience, checkout my <a href="/projects">Projects</a>. 
         </p>
+        <!-- <p>Here's my <a href="/resume">Resume</a>. </p> -->
     </div>
 </div>
 <div class="col-md-2"></div>

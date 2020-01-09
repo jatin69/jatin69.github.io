@@ -5,7 +5,7 @@ bannerDescription: "Extension of the standard 3x3 tic tac toe. A 3x3x3 version w
 techUsed: Python, Pygame, PyInstaller
 githubRepo: jatin69/ultimate-tic-tac-toe
 comments: true
-priority: 4
+priority: 8
 date: 2018-01-14
 ---
 

@@ -5,7 +5,7 @@ bannerDescription: "Custom Google Calendar for upcoming codechef contests. Conte
 techUsed: Python, Google Calendar API
 githubRepo: jatin69/codechef-contest-calendar
 comments: true
-priority: 7
+priority: 4
 date: 2018-10-20
 ---
 

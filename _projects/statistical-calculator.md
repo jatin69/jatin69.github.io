@@ -5,7 +5,7 @@ bannerDescription: "A Shiny Web App with over 50 statistical functions implement
 techUsed: R, RStudio, Shiny Web App
 githubRepo: jatin69/statistical_calculator
 comments: true
-priority: 6
+priority: 5
 date: 2017-10-31
 ---
 

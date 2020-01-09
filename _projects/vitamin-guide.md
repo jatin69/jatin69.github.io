@@ -6,7 +6,7 @@ techUsed: Node.js, Alexa Presentation Language
 githubRepo: jatin69/vitamin-guide-amazon-alexa-skill
 comments: true
 date: 2019-01-21
-priority: 8
+priority: 7
 ---
 
 

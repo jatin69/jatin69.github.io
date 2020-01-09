@@ -19,30 +19,22 @@ Checkout the demo [here](https://jatin69.github.io/codechef-contest-calendar/)
 
 ## How to Use
 
-### Google Calendar ( recommended )
+### Add to Google Calendar
 
-The Calendar is publically available [here](https://calendar.google.com/calendar?cid=N2RxbWZuNm12cmVpcWIyNmpkbjVydWs1amtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Simply click this link and tap `yes` on the popup for `Add to Calendar`. You can also add the calendar by visiting it [here](https://jatin69.github.io/codechef-contest-calendar/) and then using the `+` sign at the bottom right of calendar to add to your calendar.
+- The Calendar is publically available [here](https://calendar.google.com/calendar?cid=N2RxbWZuNm12cmVpcWIyNmpkbjVydWs1amtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Simply click this link and tap `yes` on the popup for `Add to Calendar`.
+- Alternatively, you can also add the calendar by visiting [the demo](https://jatin69.github.io/codechef-contest-calendar/) and then using the `+` sign at the bottom right of calendar to add to your calendar.
 
 Once added, it will sync all contests periodically. You are done.
 
-### iCal file
+If you still can't see the events, or the calendar in your google calendar android app, this is because, new Calendars are sometimes hidden by default in the Calendar App. To make it visible, go to `settings` in the calendar app. You'll see a `show more` button under your id which you used to add the calendar. Tap it, select `Codechef Contest Calendar` and turn the `sync` on.
 
-You can also download the `ical` file from [here](https://calendar.google.com/calendar/ical/7dqmfn6mvreiqb26jdn5ruk5jk%40group.calendar.google.com/public/basic.ics) if you want to add all events to your primary calendar.
-
-No sync will occur when events are added from `ical` file.
-
-## FAQ
-
-#### Codechef Calendar not showing up Google Calendar App?
-
-New Calendars are sometimes hidden by default in the Calendar App. To make it visible, go to `settings` in the calendar app. You'll see a `show more` button under your id. Tap it, select `Codechef Contest Calendar` and turn the `sync` on.
 Calendar will now show in your main calendar. If you want to hide it at any point of time, open the side menu and simply unset the checkbox in front of the calendar.
 
-#### I accidently added all events from ical file. How do i delete them?
+## Dev
 
-There isn't an official way to delete them. However [this post](http://blog.tomverhoeff.nl/2011/01/31/howto-undo-ical-import-in-google-calendar/) might be handy. 
-Simply open the `ical` file in a text editor & replace all occurences of `CONFIRMED` with `CANCELLED` & re-import the file. This should delete all the events. Good luck.
+- we first scraped events from codechef website
+- Then added them on a newly made google calendar
+- Then setup a cron job to periodically auto update the calendar
+- Then simply add the calendar to your google account and it'll show up in your google calendar app.
 
-## Future plans
-
-- setup a cron job on cloud to run the scraper script periodically.
+For more details, visit the project on github.

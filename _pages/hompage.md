@@ -38,9 +38,7 @@ permalink: /
     </header>
     <div style="margin: 2em 0em 2em 0em; text-align: left;">
         <p>
-            Hello World!
-            I'm currently a final semester MCA student at Department of Computer Science, University of Delhi. 
-            I'm also an upcoming SDE Intern and FTE at Amazon India. 
+            Hello World! I'm currently an SDE Intern at Amazon India. I'm also a final semester MCA student at Department of Computer Science, University of Delhi. 
         </p>
         <p>
             I'm passionate about web and software development. If you're interested in knowing about my technical experience, checkout my <a href="/projects">Projects</a>. 

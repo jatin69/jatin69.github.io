@@ -38,10 +38,10 @@ permalink: /
     </header>
     <div style="margin: 2em 0em 2em 0em; text-align: left;">
         <p>
-            Hello World! I'm currently an SDE Intern at Amazon India. I'm also a final semester MCA student at Department of Computer Science, University of Delhi. 
+            Hello World! I'm Jatin Rohilla. I recently completed my MCA from Department of Computer Science, University of Delhi. I'm passionate about web and software development. I dabbled with a few projects during my college time, check them out under <a href="/projects">Projects</a>. More details can be found on my github. 
         </p>
         <p>
-            I'm passionate about web and software development. If you're interested in knowing about my technical experience, checkout my <a href="/projects">Projects</a>. 
+            Currently, I'm an SDE 1 at Amazon India. When not working from home, i usually work out of Bangalore.
         </p>
         <!-- <p>Here's my <a href="/resume">Resume</a>. </p> -->
     </div>

@@ -38,12 +38,13 @@ permalink: /
     </header>
     <div style="margin: 2em 0em 2em 0em; text-align: left;">
         <p>
-            Hello World! I'm Jatin Rohilla. I recently completed my MCA from Department of Computer Science, University of Delhi. I'm passionate about web and software development. I dabbled with a few projects during my college time, check them out under <a href="/projects">Projects</a>. More details can be found on my github. 
+            Hello! I'm Jatin Rohilla. Currently, I'm an SDE 2 at Amazon India. I'm passionate about software engineering, and web development. 
         </p>
+            I completed my MCA in 2020 from Department of Computer Science, University of Delhi. Prior to that, in 2017, i completed my BSc. (Hons.) Computer Science from Deen Dayal Upadhyaya College, University of Delhi. I did a few projects during my college time, check them out under <a href="/projects">Projects</a>. More details can be found on my github. 
         <p>
-            Currently, I'm an SDE 1 at Amazon India. When not working from home, i usually work out of Bangalore.
+            
         </p>
-        <!-- <p>Here's my <a href="/resume">Resume</a>. </p> -->
+        <!-- <p>Here's my <a href="/resume">Resume</a> (Last updated a long time ago). </p> -->
     </div>
 </div>
 <div class="col-md-2"></div>

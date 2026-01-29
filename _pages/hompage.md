@@ -38,13 +38,12 @@ permalink: /
     </header>
     <div style="margin: 2em 0em 2em 0em; text-align: left;">
         <p>
-            Hello! I'm Jatin Rohilla. Currently, I'm an SDE 2 at Amazon India. I'm passionate about software engineering, and web development. 
+            Hello Dear Reader! Myself Jatin Rohilla. I am an SDE 2 at Amazon currently based out of Seattle, WA, USA. I have about 6 years of experience in Software Engineering, all at Amazon, where i grew from an intern to a season SDE2. I'm passionate about software engineering, and web development. 
         </p>
-            I completed my MCA in 2020 from Department of Computer Science, University of Delhi. Prior to that, in 2017, i completed my BSc. (Hons.) Computer Science from Deen Dayal Upadhyaya College, University of Delhi. I did a few projects during my college time, check them out under <a href="/projects">Projects</a>. More details can be found on my github. 
         <p>
-            
-        </p>
-        <!-- <p>Here's my <a href="/resume">Resume</a> (Last updated a long time ago). </p> -->
+            I completed my Masters in Computer Applications in 2020 from Department of Computer Science, University of Delhi, India. Prior to that, in 2017, i completed my BSc. (Hons.) Computer Science from Deen Dayal Upadhyaya College, University of Delhi, India. I did a couple of projects during my college time, check them out under <a href="/projects">Projects</a>. More details can be found on my github profile.  </p>
+
+        <p>Here's my <a href="/resume">Resume</a> (Last updated : Jan 2026). </p>
     </div>
 </div>
 <div class="col-md-2"></div>
